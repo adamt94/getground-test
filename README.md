@@ -1,4 +1,6 @@
+A nextjs redux project that displays a list of books
 
+To run the project
 ```bash
 yarn
 &
@@ -9,5 +11,3 @@ Testing
 ```
 yarn test
 ```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
